@@ -12,7 +12,7 @@ Office • HTML • CSS • W3.CSS • DBMS • MySQL • PHP • Java • C++
 
 ## 🚀 Projects
 - 🌐 Portfolio is work in progress
-- 💡 Visible in my github profile
+- 💡 Visible in my github profile or repositories
 
 ---
 
