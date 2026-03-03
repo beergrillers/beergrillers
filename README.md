@@ -13,7 +13,7 @@
   <a href="mailto:antonybuffone@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-LINK-HERE.com/" target="_blank">
+  <a href="https://antonybuffone.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logoColor=white&color=00fff9&labelColor=000000" alt="Portfolio" />
   </a>
 </p>
